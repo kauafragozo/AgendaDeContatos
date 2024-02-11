@@ -1,4 +1,3 @@
-
 Agenda de Contatos
 Este é um aplicativo simples de agenda de contatos desenvolvido em C# com Windows Forms e SQL Server. O aplicativo permite adicionar, editar, excluir contatos e exibir uma lista de contatos em uma grade.
 
@@ -9,10 +8,11 @@ Configuração do Banco de Dados
 Certifique-se de configurar a conexão com o banco de dados no código. A string de conexão está localizada na classe Form1 no construtor, onde é criada a instância da conexão SQL.
 
 csharp
+Copy code
 SqlConnection connection = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True;");
 Substitua a string de conexão com as informações do seu banco de dados.
 
-Funcionalidades
+Como Utilizar o App
 Exibir Contatos: Ao iniciar o aplicativo, ele exibe uma lista de contatos em uma grade (DataGridView).
 
 Adicionar Contato: Preencha as informações nos campos fornecidos e clique no botão "Adicionar". O contato será salvo no banco de dados.
@@ -31,5 +31,8 @@ Ao clicar em um contato na grade, as informações desse contato são exibidas n
 Caso ocorram erros durante as operações no banco de dados, mensagens de erro serão exibidas para informar o usuário.
 
 Autor
-Kauã Fragozo
+Seu Nome
+
+Licença
+Este projeto é licenciado sob a [Sua Licença].
 
