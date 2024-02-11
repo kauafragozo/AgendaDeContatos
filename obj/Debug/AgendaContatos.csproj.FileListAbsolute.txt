@@ -1,0 +1,10 @@
+E:\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.exe.config
+E:\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.exe
+E:\AgendaContatos\AgendaContatos\bin\Debug\AgendaContatos.pdb
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.csproj.AssemblyReference.cache
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.Form1.resources
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.Properties.Resources.resources
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.csproj.GenerateResource.cache
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.csproj.CoreCompileInputs.cache
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.exe
+E:\AgendaContatos\AgendaContatos\obj\Debug\AgendaContatos.pdb
