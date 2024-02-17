@@ -15,7 +15,7 @@ namespace AgendaContatos
 {
     public partial class Form1 : Form
     {
-        SqlConnection connection = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True;");
+        SqlConnection connection = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=AgendaContatos;Trusted_Connection=True;");
         SqlDataAdapter adapter = new SqlDataAdapter();
         SqlCommand command = new SqlCommand();
         int Id = 0;
